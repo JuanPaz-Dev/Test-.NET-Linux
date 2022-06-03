@@ -1,0 +1,15 @@
+/home/juampi/Escritorio/test-Cli-NET-Linux/bin/Debug/net6.0/test-Cli-NET-Linux
+/home/juampi/Escritorio/test-Cli-NET-Linux/bin/Debug/net6.0/test-Cli-NET-Linux.deps.json
+/home/juampi/Escritorio/test-Cli-NET-Linux/bin/Debug/net6.0/test-Cli-NET-Linux.runtimeconfig.json
+/home/juampi/Escritorio/test-Cli-NET-Linux/bin/Debug/net6.0/test-Cli-NET-Linux.dll
+/home/juampi/Escritorio/test-Cli-NET-Linux/bin/Debug/net6.0/test-Cli-NET-Linux.pdb
+/home/juampi/Escritorio/test-Cli-NET-Linux/obj/Debug/net6.0/test-Cli-NET-Linux.csproj.AssemblyReference.cache
+/home/juampi/Escritorio/test-Cli-NET-Linux/obj/Debug/net6.0/test-Cli-NET-Linux.GeneratedMSBuildEditorConfig.editorconfig
+/home/juampi/Escritorio/test-Cli-NET-Linux/obj/Debug/net6.0/test-Cli-NET-Linux.AssemblyInfoInputs.cache
+/home/juampi/Escritorio/test-Cli-NET-Linux/obj/Debug/net6.0/test-Cli-NET-Linux.AssemblyInfo.cs
+/home/juampi/Escritorio/test-Cli-NET-Linux/obj/Debug/net6.0/test-Cli-NET-Linux.csproj.CoreCompileInputs.cache
+/home/juampi/Escritorio/test-Cli-NET-Linux/obj/Debug/net6.0/test-Cli-NET-Linux.dll
+/home/juampi/Escritorio/test-Cli-NET-Linux/obj/Debug/net6.0/refint/test-Cli-NET-Linux.dll
+/home/juampi/Escritorio/test-Cli-NET-Linux/obj/Debug/net6.0/test-Cli-NET-Linux.pdb
+/home/juampi/Escritorio/test-Cli-NET-Linux/obj/Debug/net6.0/test-Cli-NET-Linux.genruntimeconfig.cache
+/home/juampi/Escritorio/test-Cli-NET-Linux/obj/Debug/net6.0/ref/test-Cli-NET-Linux.dll
